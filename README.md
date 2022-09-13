@@ -36,3 +36,5 @@ npm run format
 ```bash
 quasar build
 ```
+
+to see live = https://vue-quasar-notes-app.netlify.app/#/
