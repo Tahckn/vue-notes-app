@@ -1,6 +1,6 @@
 # Note App (note-app)
 
-A Note App
+A Note App. Stores data in local storage
 
 ## Install the dependencies
 ```bash
